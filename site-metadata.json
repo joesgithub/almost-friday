@@ -1,6 +1,6 @@
 {
-  "title": "A DIFFERENT TITLE",
-  "palette": "green",
+  "title": "Config Title",
+  "palette": "purple",
   "palettes": {
     "blue": {
       "sass": {
